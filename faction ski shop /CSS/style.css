@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|Inconsolata|Russo+One|Teko&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/btn2.css");
+@import url("components/img.css");
+
+
+body{
+	font-family: 'Teko', sans-serif;
+	font-size: 18px;
+}
+h1,h2,h3 {
+	font-family: 'Anton', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	width: 150px;
+}

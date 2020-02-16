@@ -1,0 +1,15 @@
+.btn-blue {
+	background-color: #537ec5;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: #ee8572;
+	font-weight: bold; 
+	font-family: "Inconsolata";
+}
+.btn2 {
+	background-color: white;
+	padding: 10px;
+	color: #ee8572;
+	font-weight: lighter;
+	margin: 0px;
+}
